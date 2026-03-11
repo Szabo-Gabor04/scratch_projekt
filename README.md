@@ -4,4 +4,4 @@
 
 A Játék célja a kosárlabda elkapása erre 3 lehetőség van amint elfogy a 3 élet a játék véget ér.
 A karaktert a jobb nyíl segítségével jobbra, a bal nyíl segítségével balra tudjuk mozgatni.
-A kosárlabda mindig random pozícióba fog megjelenni.
+A kosárlabda mindig random pozícióban fog megjelenni, amikor sikerül elkapni egy hang játszódik le és kapsz egy pontot, ha nem akkor elveszítesz egy életet.
